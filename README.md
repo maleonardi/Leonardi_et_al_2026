@@ -1,9 +1,6 @@
 # Leonardi_et_al_2026
 
-This repository contains all analysis scripts required to reproduce the figures presented in **Leonardi *et al.* (2026)**, starting from the raw experimental data.
-
-The analyses are organised by figure, with each figure corresponding to one or more Jupyter notebooks that generate the final plots used in the manuscript.
-
+This repository contains all analysis scripts required to reproduce the figures presented in **Leonardi *et al.* (2026)**.
 ---
 
 ## Figure 1 — Bulk RNA-seq & Immunofluorescence
